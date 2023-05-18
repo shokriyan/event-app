@@ -1,0 +1,20 @@
+New Year’s Day,01/01/2023,Federal Holiday
+Martin Luther King Jr. Day,01/16/2023,Federal Holiday
+President’s Day,02/20/2023,Federal Holiday
+Woman's Day,03/08/2023,Not A Public Holiday
+Easter Sunday,04/09/2023,Not A Public Holiday
+Mother’s Day,05/14/2023,Not A Public Holiday
+Memorial Day,05/29/2023,Federal Holiday
+Father’s Day,06/18/2023,Not A Public Holiday
+Juneteenth,06/19/2023,Federal Holiday
+Independence Day,07/04/2023,Federal Holiday
+Labor Day,09/05/2023,Federal Holiday
+Cabrini Day,10/02/2023,Regional Holiday (Colorado)
+US Indigenous People’s Day,10/09/2023,Regional Holiday
+Columbus Day,10/10/2023,Federal Holiday
+Veterans Day,11/11/2023,Federal Holiday
+Thanksgiving,11/23/2023,Federal Holiday
+Day after Thanksgiving,11/24/2023,Regional Holiday
+Christmas Day,12/25/2023,Federal Holiday
+Christmas Holiday,12/27/2023,Regional Holiday (North Carolina)
+New Year’s Day,01/01/2024,Federal Holiday
